@@ -31,7 +31,8 @@
 		"mockery/mockery": "~1.0@dev",
 		"phpstan/phpstan-shim": "~0.9.1",
 		"phpstan/phpstan-nette": "~0.9",
-		"tracy/tracy": "~2.3"
+		"tracy/tracy": "~2.3",
+		"vimeo/psalm": "dev-master"
 	},
 	"autoload": {
 		"psr-4": {
